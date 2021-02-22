@@ -1,0 +1,94 @@
+.corpo {
+    border: 3px solid black;
+}
+
+.titulo {
+    font-family: Arial; 
+    color: #0c092c;
+    font-size: 25px;
+}
+
+.header {
+    width: 100%;
+}
+
+.conteudohome {
+    padding: 10px 20px 20px 20px;
+    font-family: Arial;
+}
+
+.menu {
+    background-color: #9e97df;
+    text-align: center;
+}
+.menu ul li {
+    display: inline-block;
+}
+.menu ul li a {
+    display: block;
+    color: #FFFFFF;
+    padding: 10px 60px;
+}
+
+.colunaesquerda {
+    float: left;
+    margin-left: 30px;
+    width: 150px;
+    height: 200px;
+    padding: 100px 100px 100px 100px;
+    padding-top: 20px;
+    font-family: Arial;
+}
+.colunaesquerda h4 {
+    color: #161333;
+    font-family: Arial;
+}
+
+.colunacentral {
+    float: left;
+    width: 150px;
+    height: 200px;
+    padding: 100px 100px 100px 100px;
+    padding-top: 20px;
+    font-family: Arial;
+}
+.colunacentral h4 {
+    
+    color: #161333;
+    font-family: Arial;
+}
+
+.colunadireita {
+    float: left;
+    margin-right: 30px;
+    width: 150px;
+    height: 200px;
+    padding: 100px 100px 100px 100px;
+    padding-top: 20px;
+    font-family: Arial;
+}
+.colunadireita h4 {
+    color: #161333;
+    font-family: Arial;
+}
+
+.paginas {
+    color: #0c092c;
+    font-family: Arial;
+    font-size: 95%;
+}
+
+.tabelas {
+    background: #FFFFFF ;
+    border-collapse: collapse;
+    font-family: Arial;
+}
+
+.diferente {
+    background:  #9992db ;
+}
+
+.formulario {
+    font-family: Arial;
+}
+
